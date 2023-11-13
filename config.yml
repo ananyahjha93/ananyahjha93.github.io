@@ -110,7 +110,7 @@ params:
     label:
       text: "Ananya Harsh Jha"
       icon: AI2_Logo_Square_Gradients.png
-      iconHeight: 18
+      iconHeight: 36
 
 markup:
     goldmark:
