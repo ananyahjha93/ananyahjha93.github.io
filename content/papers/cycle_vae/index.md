@@ -19,7 +19,7 @@ editPost:
 ##### Download
 
 + [Paper](cycle-vae.pdf)
-+ [Code and data](github.com/ananyahjha93/cycle-consistent-vae)
++ [Code and data](https://github.com/ananyahjha93/cycle-consistent-vae)
 
 ---
 

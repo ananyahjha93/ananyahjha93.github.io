@@ -98,6 +98,8 @@ params:
         #   url: https://pmichaillat.substack.com
         - name: Twitter
           url: https://twitter.com/AnanyaHarsh
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/ananyaharshjha/
 
     assets:
         disableHLJS: true
