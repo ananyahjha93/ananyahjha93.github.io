@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+title: Ananya Harsh Jha
 paginate: 20
 theme: PaperMod
 
@@ -14,20 +14,19 @@ menu:
         - name: Papers
           url: papers/
           weight: 1
-        - name: Courses
-          url: courses/
-          weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+        # - name: Courses
+        #   url: courses/
+        #   weight: 2
+        # - name: Data
+        #   url: data/
+        #   weight: 3 
+        # - name: Newsletter
+        #   url: https://pmichaillat.substack.com
+        #   weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
-    author: Name
+    description: "I am a Predoctoral Researcher on the AllenNLP team at AI2."
+    author: Ananya Harsh Jha
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -50,44 +49,55 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
+          title: Ananya Harsh Jha
+          subtitle: "Hi! I am a [**Predoctoral Researcher**](https://allenai.org/predoctoral-young-investigators) on the
+                    [**AllenNLP**](https://allenai.org/allennlp) team at [**AI2**](https://allenai.org/).
+                    I have been fortunate enough to work with [**Iz Beltagy**](https://beltagy.net/) and [**Emma Strubell**](https://strubell.github.io/).
+                    My research interests are efficient modeling, model compression, and retrieval-augmented models. <br />
+
+                    <br />
+
+                    Previously, I was a Research Engineer at [**PyTorch Lightning**](https://github.com/Lightning-AI/lightning).
+                    I co-wrote [**TorchMetrics**](https://github.com/Lightning-AI/torchmetrics) with [**Teddy Koker**](https://teddykoker.com/)
+                    and worked on [**stochastic-autoencoders**](https://arxiv.org/pdf/2107.12329.pdf) with [**Kyunghyun Cho**](https://www.kyunghyuncho.me/).
+                    Even before that, I worked on [**cycle-VAEs**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf)
+                    with [**Saket Anand**](https://faculty.iiitd.ac.in/~anands/)."
+          imageUrl: "head_shot.jpg"
+          imageWidth: 240
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Ananya Harsh Jha
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            # - name: Courses
+            #   url: courses/
+            # - name: Data
+            #   url: data/
+            # - name: Newsletter
+            #   url: https://pmichaillat.substack.com
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:ananyaj@allenai.org
+        # - name: Location
+        #   url: location/
+        # - name: Office Hours
+        #   url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://scholar.google.com/citations?user=USRgM88AAAAJ
+        # - name: YouTube
+        #   url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://github.com/ananyahjha93
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
         - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://twitter.com/AnanyaHarsh
 
     assets:
         disableHLJS: true
@@ -96,7 +106,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Ananya Harsh Jha"
       icon: favicon.ico
       iconHeight: 18
 
