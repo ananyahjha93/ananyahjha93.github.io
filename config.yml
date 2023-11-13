@@ -109,7 +109,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Ananya Harsh Jha"
-      icon: favicon.ico
+      icon: AI2_Logo_Square_Gradients.png
       iconHeight: 18
 
 markup:
