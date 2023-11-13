@@ -1,6 +1,7 @@
 ---
 title: "Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders" 
 date: 2018-04-27
+url: /cycle-vae/
 tags: ["VAEs", "cycle-consistency", "disentangling representations"]
 author: "Ananya Harsh Jha, Saket Anand, Maneesh Singh, VSR Veeravasarapu"
 description: "cycle-VAEs" 
@@ -36,7 +37,7 @@ Generative models that learn disentangled representations for different factors 
 
 ##### Figure 4: Reverse Cycle
 
-![Reverse cycle](reverse_phase.png)
+![Reverse cycle](backward_phase.png)
 
 ---
 
