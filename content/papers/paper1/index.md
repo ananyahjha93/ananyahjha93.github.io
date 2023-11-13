@@ -6,8 +6,8 @@ author: "Ananya Harsh Jha, Saket Anand, Maneesh Singh, VSR Veeravasarapu"
 description: "cycle-VAEs" 
 summary: "This paper proposes cycle-consistent VAEs to disentangle factors of variation that control data generaton from an image distribution." 
 cover:
-    image: "paper1.png"
-    alt: "Image caption"
+    image: "forward_phase.png"
+    alt: "cycle VAEs"
     relative: false
 editPost:
     URL: "https://openaccess.thecvf.com/content_ECCV_2018/html/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.html"
@@ -32,6 +32,11 @@ Generative models that learn disentangled representations for different factors 
 ##### Figure 3: Forward cycle
 
 ![Forward cycle](forward_phase.png)
+
+
+##### Figure 4: Reverse Cycle
+
+![Reverse cycle](reverse_phase.png)
 
 ---
 
