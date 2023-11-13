@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: "https://ananyahjha93.github.io/" 
 title: Ananya Harsh Jha
 paginate: 20
 theme: PaperMod
@@ -51,17 +51,17 @@ params:
           enabled: true
           title: Ananya Harsh Jha
           subtitle: "Hi! I am a [**Predoctoral Researcher**](https://allenai.org/predoctoral-young-investigators) on the
-                    [**AllenNLP**](https://allenai.org/allennlp) team at [**AI2**](https://allenai.org/).
-                    I have been fortunate enough to work with [**Iz Beltagy**](https://beltagy.net/) and [**Emma Strubell**](https://strubell.github.io/).
+                    [**AllenNLP**](https://allenai.org/allennlp) team at [**AI2**.](https://allenai.org/)
+                    I have been fortunate enough to work with [**Iz Beltagy**](https://beltagy.net/) and [**Emma Strubell**.](https://strubell.github.io/)
                     My research interests are efficient modeling, model compression, and retrieval-augmented models. <br />
 
                     <br />
 
-                    Previously, I was a Research Engineer at [**PyTorch Lightning**](https://github.com/Lightning-AI/lightning).
+                    Previously, I was a Research Engineer at [**PyTorch Lightning**.](https://github.com/Lightning-AI/lightning)
                     I co-wrote [**TorchMetrics**](https://github.com/Lightning-AI/torchmetrics) with [**Teddy Koker**](https://teddykoker.com/)
-                    and worked on [**stochastic-autoencoders**](https://arxiv.org/pdf/2107.12329.pdf) with [**Kyunghyun Cho**](https://www.kyunghyuncho.me/).
-                    Even before that, I worked on [**cycle-VAEs**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf)
-                    with [**Saket Anand**](https://faculty.iiitd.ac.in/~anands/)."
+                    and worked on [**stochastic-autoencoders**](https://arxiv.org/pdf/2107.12329.pdf) with [**Kyunghyun Cho**.](https://www.kyunghyuncho.me/)
+                    Before that, I worked on [**cycle-VAEs**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf)
+                    with [**Saket Anand**](https://faculty.iiitd.ac.in/~anands/) at [**IIIT-Delhi**.](https://iiitd.ac.in/)"
           imageUrl: "head_shot.jpg"
           imageWidth: 240
           imageHeight: 160
@@ -81,9 +81,9 @@ params:
             #   url: archive/
     socialIcons:
         - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:ananyaj@allenai.org
+          url: ananya_harsh_jha.pdf
+        # - name: Email
+        #   url: mailto:ananyaj@allenai.org
         # - name: Location
         #   url: location/
         # - name: Office Hours

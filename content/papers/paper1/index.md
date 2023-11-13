@@ -1,8 +1,8 @@
 ---
 title: "Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders" 
 date: 2012-06-01
-tags: ["VAEs","cycle-consistency","disentangling representations"]
-author: "Ananya Harsh Jha, Saket Anand, Maneesh Singh, VSR Veeravasarapu"
+tags: ["VAEs", "cycle-consistency", "disentangling representations"]
+author: ""
 description: "This paper shows things. Published in Journal Name, 2012." 
 summary: "This paper shows things using various techniques and data." 
 cover:
@@ -12,8 +12,6 @@ cover:
 editPost:
     URL: "https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf"
     Text: "ECCV 2018"
-
----
 
 ---
 
@@ -51,7 +49,7 @@ year = {2018}
 }
 ```
 
----
+<!-- --- -->
 
 <!-- ##### Related material
 
