@@ -1,24 +1,24 @@
 ---
 title: "Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders" 
-date: 2012-06-01
+date: 2018-04-27
 tags: ["VAEs", "cycle-consistency", "disentangling representations"]
-author: ""
-description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows things using various techniques and data." 
+author: "Ananya Harsh Jha, Saket Anand, Maneesh Singh, VSR Veeravasarapu"
+description: "cycle-VAEs" 
+summary: "This paper proposes cycle-consistent VAEs to disentangle factors of variation that control data generaton from an image distribution." 
 cover:
     image: "paper1.png"
     alt: "Image caption"
     relative: false
 editPost:
-    URL: "https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf"
+    URL: "https://openaccess.thecvf.com/content_ECCV_2018/html/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.html"
     Text: "ECCV 2018"
 
 ---
 
 ##### Download
 
-+ [Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf)
-+ [Code and data](https://github.com/pmichaillat/job-rationing)
++ [Paper](cycle-vae.pdf)
++ [Code and data](github.com/ananyahjha93/cycle-consistent-vae)
 
 ---
 
@@ -29,15 +29,16 @@ Generative models that learn disentangled representations for different factors 
 
 ---
 
-##### Figure X: Figure caption
+##### Figure 3: Forward cycle
 
-![](paper1.png)
+![Forward cycle](forward_phase.png)
 
 ---
 
 ##### Citation
 
-Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+Ananya Harsh Jha, Saket Anand, Maneesh Singh, VSR Veeravasarapu; Proceedings of the European Conference on Computer Vision (ECCV), 2018, pp. 805-820. 
+https://doi.org/10.48550/arXiv.1804.10469.
 
 ```BibTeX
 @InProceedings{Jha_2018_ECCV,
