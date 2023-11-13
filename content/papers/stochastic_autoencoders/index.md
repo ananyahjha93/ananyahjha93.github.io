@@ -1,6 +1,7 @@
 ---
 title: "Augmentation-Augmented Stochastic Autoencoders" 
 date: 2021-07-21
+url: /stochastic-autoencoders/
 tags: ["stochastic-autoencoders", "VAEs"]
 author: ["Ananya Harsh Jha", "William Falcon", "Teddy Koker", "Kyunghyun Cho"]
 description: "This paper proposes a stochastic autoencoder for self-supervised learning." 
