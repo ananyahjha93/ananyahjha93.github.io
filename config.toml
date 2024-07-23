@@ -1,0 +1,50 @@
+theme = "anemone"
+
+# The URL the site will be built for
+base_url = "https://ananyahjha93.github.io/"
+title = "Ananya Harsh Jha"
+description = "Personal website of Ananya Harsh Jha."
+compile_sass = false
+minify_html = true
+generate_feeds = true
+default_language = "en"
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+taxonomies = [
+    {name = "tags", feed = true},
+]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+
+render_emoji = true
+external_links_target_blank = true
+smart_punctuation = true
+highlight_code = true
+highlight_theme = "gruvbox-dark"
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+[extra]
+# Put all your custom variables here
+
+author = "ananyahjha93"
+display_author = true
+
+favicon = "favicon.ico"
+image = ""
+
+default_theme = "dark"
+list_pages = true
+twitter_card = false
+
+header_nav = [
+  { url = "/", name_en = "/home/" },
+#   { url = "/blog", name_en = "/blog/" }
+]
