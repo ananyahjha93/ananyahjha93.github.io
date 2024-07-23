@@ -33,7 +33,7 @@ In a previous life, I worked on [**cycle-VAEs**](https://openaccess.thecvf.com/c
   ECCV '18 | [[code](https://github.com/ananyahjha93/cycle-consistent-vae)]
 
 <!-- - [Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf) \
-  ECCV 2018 | [[code](github.com/ananyahjha93)] [[demo](github.com/ananyahjha93)] [[slides](github.com/ananyahjha93)] [[talk](github.com/ananyahjha93)] [[website](github.com/ananyahjha93)] -->
+  ECCV 2018 | [[code](github.com/ananyahjha93)] [[demo](github.com/ananyahjha93)] [[slides](github.com/ananyahjha93)] [[talk](github.com/ananyahjha93)] [[website](github.com/ananyahjha93)] [[🤗 artifacts](github.com/ananyahjha93)] -->
 
 #### preprints
 
