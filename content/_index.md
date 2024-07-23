@@ -7,10 +7,10 @@
 I am a member of the [H2Lab](https://h2lab.cs.washington.edu/) and [Noah's Ark](https://noahs-ark.github.io/). \
 I am broadly interested in efficient machine learning for language.<br /> -->
 
-Hi! I am an incoming PhD student at UW, co-supervised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Noah Smith](https://nasmith.github.io/).
+Hi! I am an incoming PhD student at UW, co-advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Noah Smith](https://nasmith.github.io/).
 I am broadly interested in efficient machine learning for language.<br />
 
-I collaborate closely with [Emma Strubell](https://strubell.github.io/) and various other people at [AI2](https://allenai.org/), where previously, I was a [predoctoral researcher](https://allenai.org/predoctoral-young-investigators) advised by [Iz Beltagy](https://beltagy.net/).<br />
+I collaborate closely with [Emma Strubell](https://strubell.github.io/), [Dirk Groeneveld](https://www.linkedin.com/in/mechanicaldirk/) and various other people at [AI2](https://allenai.org/), where previously, I was a [predoctoral researcher](https://allenai.org/predoctoral-young-investigators) mentored by [Iz Beltagy](https://beltagy.net/).<br />
 
 Before that, I was a research engineer at [PyTorch Lightning](https://github.com/Lightning-AI/lightning). I co-wrote [TorchMetrics](https://github.com/Lightning-AI/torchmetrics) with [Teddy Koker](https://teddykoker.com/) and worked on [stochastic-autoencoders](https://arxiv.org/pdf/2107.12329.pdf) with [Kyunghyun Cho](https://www.kyunghyuncho.me/).
 In a previous life, I worked on [cycle-VAEs](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf) with [Saket Anand](https://faculty.iiitd.ac.in/~anands/) at [IIIT-Delhi](https://iiitd.ac.in/).<br />
