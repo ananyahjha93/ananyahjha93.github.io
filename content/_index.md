@@ -3,17 +3,17 @@
 
 ## Ananya Harsh Jha
 
-<!-- Hi! I am a first-year PhD student at UW, co-supervised by [**Hannaneh Hajishirzi**](https://homes.cs.washington.edu/~hannaneh/) and [**Noah Smith**](https://nasmith.github.io/).
-I am a member of the [**H2Lab**](https://h2lab.cs.washington.edu/) and [**Noah's Ark**](https://noahs-ark.github.io/). \
+<!-- Hi! I am a first-year PhD student at UW, co-supervised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Noah Smith](https://nasmith.github.io/).
+I am a member of the [H2Lab](https://h2lab.cs.washington.edu/) and [Noah's Ark](https://noahs-ark.github.io/). \
 I am broadly interested in efficient machine learning for language.<br /> -->
 
-Hi! I am an incoming PhD student at UW, co-supervised by [**Hannaneh Hajishirzi**](https://homes.cs.washington.edu/~hannaneh/) and [**Noah Smith**](https://nasmith.github.io/).
+Hi! I am an incoming PhD student at UW, co-supervised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Noah Smith](https://nasmith.github.io/).
 I am broadly interested in efficient machine learning for language.<br />
 
-I collaborate closely with [**Emma Strubell**](https://strubell.github.io/) and various other people at [**AI2**](https://allenai.org/), where previously, I was a [**predoctoral researcher**](https://allenai.org/predoctoral-young-investigators) advised by [**Iz Beltagy**](https://beltagy.net/).<br />
+I collaborate closely with [Emma Strubell](https://strubell.github.io/) and various other people at [AI2](https://allenai.org/), where previously, I was a [predoctoral researcher](https://allenai.org/predoctoral-young-investigators) advised by [Iz Beltagy](https://beltagy.net/).<br />
 
-Before that, I was a research engineer at [**PyTorch Lightning**](https://github.com/Lightning-AI/lightning). I co-wrote [**TorchMetrics**](https://github.com/Lightning-AI/torchmetrics) with [**Teddy Koker**](https://teddykoker.com/) and worked on [**stochastic-autoencoders**](https://arxiv.org/pdf/2107.12329.pdf) with [**Kyunghyun Cho**](https://www.kyunghyuncho.me/).
-In a previous life, I worked on [**cycle-VAEs**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf) with [**Saket Anand**](https://faculty.iiitd.ac.in/~anands/) at [**IIIT-Delhi**](https://iiitd.ac.in/).<br />
+Before that, I was a research engineer at [PyTorch Lightning](https://github.com/Lightning-AI/lightning). I co-wrote [TorchMetrics](https://github.com/Lightning-AI/torchmetrics) with [Teddy Koker](https://teddykoker.com/) and worked on [stochastic-autoencoders](https://arxiv.org/pdf/2107.12329.pdf) with [Kyunghyun Cho](https://www.kyunghyuncho.me/).
+In a previous life, I worked on [cycle-VAEs](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf) with [Saket Anand](https://faculty.iiitd.ac.in/~anands/) at [IIIT-Delhi](https://iiitd.ac.in/).<br />
 
 > *If you wanna chat about research/academia/whatever, feel free to reach out to ananyahj [at] cs [dot] washington [dot] edu.*
 
@@ -46,7 +46,7 @@ In a previous life, I worked on [**cycle-VAEs**](https://openaccess.thecvf.com/c
 
 ## Resources
 
-- 📜 You can find my **grad school statement of purpose** at [**CS-SOP**](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d?p=2dda63bcbc8a4650bf41845f08dbb666&pm=s).
+- 📜 You can find my grad school statement of purpose at [CS-SOP](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d?p=2dda63bcbc8a4650bf41845f08dbb666&pm=s).
 I hope this is helpful to you. Also, remember that graduate students come from diverse backgrounds, and your profile need not look like mine to be accepted into the same program.
 
 <br />
