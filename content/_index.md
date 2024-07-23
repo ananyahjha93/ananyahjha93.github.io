@@ -3,8 +3,11 @@
 
 ## Ananya Harsh Jha
 
-Hi! I am a first-year PhD student at UW, co-supervised by [**Hannaneh Hajishirzi**](https://homes.cs.washington.edu/~hannaneh/) and [**Noah Smith**](https://nasmith.github.io/).
+<!-- Hi! I am a first-year PhD student at UW, co-supervised by [**Hannaneh Hajishirzi**](https://homes.cs.washington.edu/~hannaneh/) and [**Noah Smith**](https://nasmith.github.io/).
 I am a member of the [**H2Lab**](https://h2lab.cs.washington.edu/) and [**Noah's Ark**](https://noahs-ark.github.io/). \
+I am broadly interested in efficient machine learning for language.<br /> -->
+
+Hi! I am an incoming PhD student at UW, co-supervised by [**Hannaneh Hajishirzi**](https://homes.cs.washington.edu/~hannaneh/) and [**Noah Smith**](https://nasmith.github.io/).
 I am broadly interested in efficient machine learning for language.<br />
 
 I collaborate closely with [**Emma Strubell**](https://strubell.github.io/) and various others from the [**AllenNLP**](https://allenai.org/allennlp) team at [**AI2**](https://allenai.org/), where previously, I was a [**predoctoral researcher**](https://allenai.org/predoctoral-young-investigators) supervised by [**Iz Beltagy**](https://beltagy.net/) and [**Emma Strubell**](https://strubell.github.io/).<br />
