@@ -6,7 +6,7 @@ title = "Ananya Harsh Jha"
 description = "Personal website of Ananya Harsh Jha."
 compile_sass = false
 minify_html = true
-generate_feeds = true
+generate_feeds = false
 default_language = "en"
 
 # Whether to build a search index to be used later on by a JavaScript library
