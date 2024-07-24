@@ -3,10 +3,6 @@
 
 ## Ananya Harsh Jha
 
-<!-- Hi! I am a first-year PhD student at UW, co-supervised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Noah Smith](https://nasmith.github.io/).
-I am a member of the [H2Lab](https://h2lab.cs.washington.edu/) and [Noah's Ark](https://noahs-ark.github.io/). \
-I am broadly interested in efficient machine learning for language.<br /> -->
-
 Hi! I am an incoming PhD student at UW, co-advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Noah Smith](https://nasmith.github.io/).
 I am broadly interested in efficient machine learning for language.<br />
 
@@ -29,7 +25,7 @@ In a previous life, I worked on [cycle-VAEs](https://openaccess.thecvf.com/conte
 - [Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research](https://arxiv.org/pdf/2402.00159) \
   ACL '24 | [[code](https://github.com/allenai/dolma)] [[website](https://allenai.org/olmo)] [[🤗 artifacts](https://huggingface.co/datasets/allenai/dolma)]
 
-- [Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf) \
+- [Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf) (*first author)\
   ECCV '18 | [[code](https://github.com/ananyahjha93/cycle-consistent-vae)]
 
 <!-- - [Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf) \
@@ -37,10 +33,11 @@ In a previous life, I worked on [cycle-VAEs](https://openaccess.thecvf.com/conte
 
 #### preprints
 
-- [Just CHOP: Embarrassingly Simple LLM Compression](https://arxiv.org/pdf/2305.14864v3)
+- [Just CHOP: Embarrassingly Simple LLM Compression](https://arxiv.org/pdf/2305.14864v3) (*first author) \
+  May '23
 
-- [AASAE: Augmentation-Augmented Stochastic Autoencoders](https://arxiv.org/pdf/2107.12329) \
-  [[code](https://github.com/Lightning-Universe/paper-AAVAE)]
+- [AASAE: Augmentation-Augmented Stochastic Autoencoders](https://arxiv.org/pdf/2107.12329) (*first author) \
+  July '21 | [[code](https://github.com/Lightning-Universe/paper-AAVAE)]
 
 <br />
 
