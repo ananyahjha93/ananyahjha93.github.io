@@ -15,7 +15,7 @@ In a previous life, I worked on [cycle-VAEs](https://openaccess.thecvf.com/conte
 
 <br />
 
-## Representative Papers
+## representative papers
 
 #### conferences
 
@@ -46,14 +46,14 @@ In a previous life, I worked on [cycle-VAEs](https://openaccess.thecvf.com/conte
 
 <br />
 
-## Resources
+## resources
 
 - 📜 You can find my grad school statement of purpose at [CS-SOP](https://cs-sop.notion.site/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d?p=2dda63bcbc8a4650bf41845f08dbb666&pm=s).
 I hope this is helpful to you. Also, remember that graduate students come from diverse backgrounds, and your profile need not look like mine to be accepted into the same program.
 
 <br />
 
-## Online Presence
+## online presence
 
 - 🤓 Scholar: [Ananya Harsh Jha](https://scholar.google.com/citations?user=USRgM88AAAAJ&hl=en)
 - 💻 Github: [ananyahjha93@GitHub](https://github.com/ananyahjha93)
