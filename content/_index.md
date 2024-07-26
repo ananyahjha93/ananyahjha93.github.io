@@ -20,23 +20,28 @@ In a previous life, I worked on [cycle-VAEs](https://openaccess.thecvf.com/conte
 #### conferences
 
 - [OLMo: Accelerating the Science of Language Models](https://arxiv.org/pdf/2402.00838) \
+  <span style="font-size:0.9em;">Dirk Groeneveld, Iz Beltagy, ..., **Ananya Harsh Jha**, ..., Noah A. Smith, Hannaneh Hajishirzi</span> \
   ACL '24 | [[code](https://github.com/allenai/OLMo)] [[website](https://allenai.org/olmo)] [[🤗 artifacts](https://huggingface.co/allenai/OLMo-7B)]
 
 - [Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research](https://arxiv.org/pdf/2402.00159) \
+  <span style="font-size:0.9em;">Luca Soldaini, Rodney Kinney, ..., **Ananya Harsh Jha**, ..., Jesse Dodge, Kyle Lo</span> \
   ACL '24 | [[code](https://github.com/allenai/dolma)] [[website](https://allenai.org/olmo)] [[🤗 artifacts](https://huggingface.co/datasets/allenai/dolma)]
 
-- [Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf) (*first author)\
+- [Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf) \
+  <span style="font-size:0.9em;">**Ananya Harsh Jha**, Saket Anand, Maneesh Singh, and VSR Veeravasarapu</span> \
   ECCV '18 | [[code](https://github.com/ananyahjha93/cycle-consistent-vae)]
 
 <!-- - [Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf) \
   ECCV 2018 | [[code](github.com/ananyahjha93)] [[demo](github.com/ananyahjha93)] [[slides](github.com/ananyahjha93)] [[talk](github.com/ananyahjha93)] [[website](github.com/ananyahjha93)] [[🤗 artifacts](github.com/ananyahjha93)] -->
 
-#### preprints
+#### arXiv
 
-- [Just CHOP: Embarrassingly Simple LLM Compression](https://arxiv.org/pdf/2305.14864v3) (*first author) \
+- [Just CHOP: Embarrassingly Simple LLM Compression](https://arxiv.org/pdf/2305.14864v3) \
+  <span style="font-size:0.9em;">**Ananya Harsh Jha**, Tom Sherborne, Evan Pete Walsh, Dirk Groeneveld, Emma Strubell, Iz Beltagy</span> \
   May '23
 
-- [AASAE: Augmentation-Augmented Stochastic Autoencoders](https://arxiv.org/pdf/2107.12329) (*first author) \
+- [AASAE: Augmentation-Augmented Stochastic Autoencoders](https://arxiv.org/pdf/2107.12329) \
+  <span style="font-size:0.9em;">William Falcon\*, **Ananya Harsh Jha\***, Teddy Koker, Kyunghyun Cho</span> \
   July '21 | [[code](https://github.com/Lightning-Universe/paper-AAVAE)]
 
 <br />
