@@ -3,7 +3,7 @@
 
 ## Ananya Harsh Jha
 
-Hi! I am a first year PhD student at UW, co-advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Noah Smith](https://nasmith.github.io/).
+Hi! I am a first year PhD student at UW, co-advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz).
 I am broadly interested in efficient machine learning for language.<br />
 
 I collaborate closely with [Emma Strubell](https://strubell.github.io/), [Dirk Groeneveld](https://www.linkedin.com/in/mechanicaldirk/) and various other people at [AI2](https://allenai.org/), where previously, I was a [predoctoral researcher](https://allenai.org/predoctoral-young-investigators) mentored by [Iz Beltagy](https://beltagy.net/).<br />
