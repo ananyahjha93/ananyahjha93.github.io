@@ -6,9 +6,9 @@
 Hi! I am a first year PhD student at UW, co-advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz).
 I am broadly interested in efficient machine learning for language.<br />
 
-I collaborate closely with [Emma Strubell](https://strubell.github.io/), [Dirk Groeneveld](https://www.linkedin.com/in/mechanicaldirk/) and various other people at [AI2](https://allenai.org/), where previously, I was a [predoctoral researcher](https://allenai.org/predoctoral-young-investigators) mentored by [Iz Beltagy](https://beltagy.net/).<br />
-
-Before that, I was a research engineer at [PyTorch Lightning](https://github.com/Lightning-AI/lightning). I co-wrote [TorchMetrics](https://github.com/Lightning-AI/torchmetrics) with [Teddy Koker](https://teddykoker.com/) and worked on [stochastic-autoencoders](https://arxiv.org/pdf/2107.12329.pdf) with [Kyunghyun Cho](https://www.kyunghyuncho.me/).
+Previously, I was a [predoctoral researcher](https://allenai.org/predoctoral-young-investigators) at [AI2](https://allenai.org/), where I was mentored by [Iz Beltagy](https://beltagy.net/) and [Emma Strubell](https://strubell.github.io/).
+Before that, I was a research engineer at [PyTorch Lightning](https://github.com/Lightning-AI/lightning).
+I co-wrote [TorchMetrics](https://github.com/Lightning-AI/torchmetrics) with [Teddy Koker](https://teddykoker.com/) and worked on [stochastic-autoencoders](https://arxiv.org/pdf/2107.12329.pdf) with [Kyunghyun Cho](https://www.kyunghyuncho.me/).
 In a previous life, I worked on [cycle-VAEs](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf) with [Saket Anand](https://faculty.iiitd.ac.in/~anands/) at [IIIT-Delhi](https://iiitd.ac.in/).<br />
 
 > *If you wanna chat about research/academia/whatever, feel free to reach out to ananyahj [at] cs [dot] washington [dot] edu.*
