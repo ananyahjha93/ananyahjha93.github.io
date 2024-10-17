@@ -7,8 +7,10 @@ Hi! I am a first year PhD student at UW, co-advised by [Hannaneh Hajishirzi](htt
 I am broadly interested in efficient machine learning for language.<br />
 
 Previously, I was a [predoctoral researcher](https://allenai.org/predoctoral-young-investigators) at [AI2](https://allenai.org/), where I was mentored by [Iz Beltagy](https://beltagy.net/) and [Emma Strubell](https://strubell.github.io/).<br />
+
 Before that, I was a research engineer at [PyTorch Lightning](https://github.com/Lightning-AI/lightning).
 I co-wrote [TorchMetrics](https://github.com/Lightning-AI/torchmetrics) with [Teddy Koker](https://teddykoker.com/) and worked on [stochastic-autoencoders](https://arxiv.org/pdf/2107.12329.pdf) with [Kyunghyun Cho](https://www.kyunghyuncho.me/).<br />
+
 In a previous life, I worked on [cycle-VAEs](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf) with [Saket Anand](https://faculty.iiitd.ac.in/~anands/) at [IIIT-Delhi](https://iiitd.ac.in/).<br />
 
 > *If you wanna chat about research/academia/whatever, feel free to reach out to ananyahj [at] cs [dot] washington [dot] edu.*
