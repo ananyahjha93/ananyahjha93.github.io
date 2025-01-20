@@ -4,7 +4,7 @@
 ## Ananya Harsh Jha
 
 Hi! I am a first year PhD student at UW, co-advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz).
-I am broadly interested in efficient machine learning for language.<br />
+I am broadly interested in efficient machine learning and optimization for neural networks.<br />
 
 Previously, I was a [predoctoral researcher](https://allenai.org/predoctoral-young-investigators) at [AI2](https://allenai.org/), where I was mentored by [Iz Beltagy](https://beltagy.net/) and [Emma Strubell](https://strubell.github.io/).<br />
 
