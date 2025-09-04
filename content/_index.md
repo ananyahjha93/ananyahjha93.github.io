@@ -3,8 +3,8 @@
 
 ## Ananya Harsh Jha
 
-Hi! I am a first year PhD student at UW, co-advised by [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/) and [Luke Zettlemoyer](https://homes.cs.washington.edu/~lsz/).
-I am broadly interested in efficient machine learning and optimization for neural networks.<br />
+Hi! I’m a second-year Ph.D. student at the University of Washington, co-advised by [Luke Zettlemoyer](https://homes.cs.washington.edu/~lsz/) and [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/).
+I am interested in the theory of machine learning and continuous optimization.<br />
 
 Previously, I was a [predoctoral researcher](https://allenai.org/predoctoral-young-investigators) at [AI2](https://allenai.org/), where I was mentored by [Iz Beltagy](https://beltagy.net/) and [Emma Strubell](https://strubell.github.io/).<br />
 
@@ -17,7 +17,7 @@ In a previous life, I worked on [cycle-VAEs](https://openaccess.thecvf.com/conte
 
 <br />
 
-## representative papers
+## previous publications
 
 #### conferences
 
@@ -32,9 +32,6 @@ In a previous life, I worked on [cycle-VAEs](https://openaccess.thecvf.com/conte
 - [Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf) \
   <span style="font-size:0.75em;">**Ananya Harsh Jha**, Saket Anand, Maneesh Singh, and VSR Veeravasarapu</span> \
   ECCV '18 | [[code](https://github.com/ananyahjha93/cycle-consistent-vae)]
-
-<!-- - [Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ananya_Harsh_Jha_Disentangling_Factors_of_ECCV_2018_paper.pdf) \
-  ECCV 2018 | [[code](github.com/ananyahjha93)] [[demo](github.com/ananyahjha93)] [[slides](github.com/ananyahjha93)] [[talk](github.com/ananyahjha93)] [[website](github.com/ananyahjha93)] [[🤗 artifacts](github.com/ananyahjha93)] -->
 
 #### arXiv
 
