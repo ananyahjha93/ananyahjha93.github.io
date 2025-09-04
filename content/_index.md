@@ -3,7 +3,7 @@
 
 ## Ananya Harsh Jha
 
-Hi! I’m a second-year Ph.D. student at the University of Washington, co-advised by [Luke Zettlemoyer](https://homes.cs.washington.edu/~lsz/) and [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/).
+Hi! I’m a second-year PhD student at the University of Washington, co-advised by [Luke Zettlemoyer](https://homes.cs.washington.edu/~lsz/) and [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/).
 I am interested in the theory of machine learning and continuous optimization.<br />
 
 Previously, I was a [predoctoral researcher](https://allenai.org/predoctoral-young-investigators) at [AI2](https://allenai.org/), where I was mentored by [Iz Beltagy](https://beltagy.net/) and [Emma Strubell](https://strubell.github.io/).<br />
