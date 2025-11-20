@@ -6,7 +6,7 @@
 Hi! I’m a second-year PhD student at the University of Washington, co-advised by [Luke Zettlemoyer](https://homes.cs.washington.edu/~lsz/) and [Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/).
 I am interested in the theory of machine learning and continuous optimization.<br />
 
-Previously, I was a [predoctoral researcher](https://allenai.org/predoctoral-young-investigators) at [AI2](https://allenai.org/), where I was mentored by [Iz Beltagy](https://beltagy.net/) and [Emma Strubell](https://strubell.github.io/).<br />
+Previously, I was a [predoctoral researcher](https://allenai.org/predoctoral-young-investigators) at [AI2](https://allenai.org/), where I was mentored by [Emma Strubell](https://strubell.github.io/) and [Iz Beltagy](https://beltagy.net/).<br />
 
 Before that, I was a research engineer at [PyTorch Lightning](https://github.com/Lightning-AI/lightning).
 I co-wrote [TorchMetrics](https://github.com/Lightning-AI/torchmetrics) with [Teddy Koker](https://teddykoker.com/) and worked on [stochastic-autoencoders](https://arxiv.org/pdf/2107.12329.pdf) with [Kyunghyun Cho](https://www.kyunghyuncho.me/).<br />
