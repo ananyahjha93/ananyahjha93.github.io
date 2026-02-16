@@ -52,6 +52,22 @@ I hope this is helpful to you. Also, remember that graduate students come from d
 
 <br />
 
+## random example of correlation does not imply causation (or does it?)
+
+- I joined NYU in 2018 for a Master's in Computer Science.
+    - Paul Romer of NYU Stern School of Business won the [2018 Nobel Prize in Economics](https://www.nyu.edu/about/news-publications/news/2018/october/nyu-congratulates-paul-romer-on-winning-the-2018-nobel-prize-in-.html).
+    - Yann LeCun of NYU Courant Institute of Mathematical Sciences won the [2018 Turing Award](https://www.nyu.edu/about/news-publications/news/2019/march/courant-s-lecun-wins-turing-award-for-breakthroughs-in-artificia.html).
+
+- I joined UW in 2024 for a PhD in Computer Science.
+    - David Baker of UW School of Medicine won the [2024 Nobel Prize in Chemistry](https://www.washington.edu/research/announcements/uw-professor-david-baker-wins-the-2024-nobel-prize-in-chemistry/).
+    - Mary E. Brunkow, a UW alum and a senior program manager at the Institute for Systems Biology in Seattle, won the [2025 Nobel Prize in Physiology or Medicine](https://www.washington.edu/news/2025/10/06/uw-alum-mary-e-brunkow-awarded-the-2025-nobel-prize-in-physiology-or-medicine/).
+
+- I will join **[Insert Institution]** as a Postdoc/Faculty in 2030?
+    - **[Two of your faculty/alumni]** win the **2030/2031 Turing Award/Nobel Prize** (Accepting offers now, hire me to secure your legacy).
+    - Trust me, I'm doing a PhD in ML, so I am an expert at few-shot learning and generalizing from two data points!
+
+<br />
+
 ## online presence
 
 - 🤓 Scholar: [Ananya Harsh Jha](https://scholar.google.com/citations?user=USRgM88AAAAJ&hl=en)
