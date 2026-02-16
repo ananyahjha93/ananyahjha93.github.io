@@ -52,6 +52,12 @@ I hope this is helpful to you. Also, remember that graduate students come from d
 
 <br />
 
+## online presence
+
+- 🤓 Scholar: [Ananya Harsh Jha](https://scholar.google.com/citations?user=USRgM88AAAAJ&hl=en)
+- 💻 Github: [ananyahjha93@GitHub](https://github.com/ananyahjha93)
+- 📄 Resume (probably not updated): [Ananya Harsh Jha](resume/resume_ananya.pdf)
+
 ## random example of correlation does not imply causation (or does it?)
 
 - I joined NYU in 2018 for a Master's in Computer Science.
@@ -67,9 +73,3 @@ I hope this is helpful to you. Also, remember that graduate students come from d
     - Trust me, I'm doing a PhD in ML, so I am an expert at few-shot learning and generalizing from two data points!
 
 <br />
-
-## online presence
-
-- 🤓 Scholar: [Ananya Harsh Jha](https://scholar.google.com/citations?user=USRgM88AAAAJ&hl=en)
-- 💻 Github: [ananyahjha93@GitHub](https://github.com/ananyahjha93)
-- 📄 Resume (probably not updated): [Ananya Harsh Jha](resume/resume_ananya.pdf)
