@@ -71,7 +71,7 @@ I hope this is helpful to you. Also, remember that graduate students come from d
     - Mary E. Brunkow, a UW alum and a senior program manager at the Institute for Systems Biology in Seattle, won the [2025 Nobel Prize in Physiology or Medicine](https://www.washington.edu/news/2025/10/06/uw-alum-mary-e-brunkow-awarded-the-2025-nobel-prize-in-physiology-or-medicine/).
 
 - I will join **The Highest Bidder** as a Tenure-Track Faculty in 2030.
-    - **[Two of your faculty/alumni]** will win the **2030/2031 Turing Award/Nobel Prize**.
+    - **Two of your faculty/alumni** will win the **2030/2031 Turing Award/Nobel Prize**.
 
 > Accepting offers now, hire me to secure your legacy. Trust me, I'm doing a PhD in ML, so I am an expert at few-shot learning and generalizing from two data points!
 
