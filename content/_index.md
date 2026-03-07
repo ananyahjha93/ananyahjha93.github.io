@@ -79,7 +79,7 @@ I hope this is helpful to you. Also, remember that graduate students come from d
 
 ## non-work stuff
 
-I love photography, and I post some of my work on my [Instagram page](https://www.instagram.com/thehasselgrad/). I dabble into both digital and film, and also collect cameras and lenses. My current collection includes:
+I love photography, and I post some of my work on my [Instagram page](https://www.instagram.com/thehasselgrad/). I dabble in both digital and film, and also collect cameras and lenses. My current collection includes:
 
 - Hasselblad 503CW Acute Matte D, **lenses:** Zeiss Distagon T* 50mm f/4 CFi
 - Hasselblad X2D II, **lenses:** XCD 25 V f/2.5, XCD 38 V f/2.5, XCD 35-100E f/2.8-4
