@@ -60,6 +60,19 @@ I hope this is helpful to you. Also, remember that graduate students come from d
 
 <br />
 
+## non-work stuff
+
+I love photography, and I post some of my work on my [Instagram page](https://www.instagram.com/thehasselgrad/). I dabble in both digital and film, and also collect cameras and lenses. My current collection includes:
+
+- Hasselblad 503CW Acute Matte D, **lenses:** Zeiss Distagon T* 50mm f/4 CFi
+- Hasselblad X2D II, **lenses:** XCD 25V f/2.5, XCD 38V f/2.5, XCD 35-100E f/2.8-4
+- Leica Q2 "Ghost" by Hodinkee
+- Leica Sofort 2
+- Yashica Electro 35 GSN
+- Contax S2 60th Anniversary Edition, **lenses:** Contax Zeiss Distagon T* 35mm f/1.4 MMJ
+
+<br />
+
 ## random example of correlation does not imply causation (or does it?)
 
 - I joined NYU in 2018 for a Master's in Computer Science.
@@ -74,16 +87,3 @@ I hope this is helpful to you. Also, remember that graduate students come from d
     - **Two of your faculty/alumni** will win the **2030/2031 Turing Award/Nobel Prize**.
 
 > Accepting offers now, hire me to secure your legacy. Trust me, I'm doing a PhD in ML, so I am an expert at few-shot learning and generalizing from two data points!
-
-<br />
-
-## non-work stuff
-
-I love photography, and I post some of my work on my [Instagram page](https://www.instagram.com/thehasselgrad/). I dabble in both digital and film, and also collect cameras and lenses. My current collection includes:
-
-- Hasselblad 503CW Acute Matte D, **lenses:** Zeiss Distagon T* 50mm f/4 CFi
-- Hasselblad X2D II, **lenses:** XCD 25V f/2.5, XCD 38V f/2.5, XCD 35-100E f/2.8-4
-- Leica Q2 "Ghost" by Hodinkee
-- Leica Sofort 2
-- Yashica Electro 35 GSN
-- Contax S2 60th Anniversary Edition, **lenses:** Contax Zeiss Distagon T* 35mm f/1.4 MMJ
