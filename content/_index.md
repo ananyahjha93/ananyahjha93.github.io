@@ -1,7 +1,7 @@
 +++
 +++
 
-<style>.bg-hide{color:var(--bg);background-color:var(--bg);user-select:none}.bg-hide::selection,.bg-hide::-moz-selection{color:var(--accent);background:var(--accent)}</style>
+<style>.bg-hide{color:var(--bg);background-color:var(--bg);user-select:none}</style>
 
 ## Ananya Harsh Jha
 
