@@ -15,6 +15,8 @@ In a previous life, I worked on [cycle-VAEs](https://openaccess.thecvf.com/conte
 
 > *If you wanna chat about research/academia/whatever, feel free to reach out to ananyahj [at] cs [dot] washington [dot] edu.*
 
+> *PS: The publications below are from before I started my PhD and don't reflect my current research interests. Stay tuned for new work!*
+
 <br />
 
 ## publications
