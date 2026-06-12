@@ -19,6 +19,14 @@ In a previous life, I worked on [cycle-VAEs](https://openaccess.thecvf.com/conte
 
 <br />
 
+## updates
+
+| date | update |
+|---|---|
+| May 4, 2026 – July 3, 2026 | Visiting PhD student at the [Sierra team](https://sierra-mlopt.github.io) at Inria, Paris. |
+
+<br />
+
 ## publications
 
 #### conferences
