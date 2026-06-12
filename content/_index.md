@@ -64,6 +64,8 @@ I hope this is helpful to you. Also, remember that graduate students come from d
 
 ## non-work stuff
 
+#### photography
+
 I love photography, and I post some of my work on my [Instagram page](https://www.instagram.com/thehasselgrad/). I dabble in both digital and film, and also collect cameras and lenses. My current collection includes:
 
 - Hasselblad 503CW Acute Matte D, **lenses:** Zeiss Distagon T* 50mm f/4 CFi
@@ -75,7 +77,7 @@ I love photography, and I post some of my work on my [Instagram page](https://ww
 
 <br />
 
-## random example of correlation does not imply causation (or does it?)
+#### random example of correlation does not imply causation (or does it?)
 
 - I joined NYU in 2018 for a Master's in Computer Science.
     - Paul Romer of NYU Stern School of Business won the [2018 Nobel Prize in Economics](https://www.nyu.edu/about/news-publications/news/2018/october/nyu-congratulates-paul-romer-on-winning-the-2018-nobel-prize-in-.html).
