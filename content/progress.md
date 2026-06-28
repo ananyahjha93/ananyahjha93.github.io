@@ -11,18 +11,19 @@ h1 { font-size: 1.75rem; }
 .bar-track { height: 5px; background: var(--bg-light); border-radius: 3px; overflow: hidden; }
 .bar-fill { height: 100%; border-radius: 3px; }
 .pg-section { margin-bottom: 1rem; }
-/* toolkit grid */
-.tk-outer { width: 100vw; margin-left: calc(50% - 50vw); padding: 0 5vw; box-sizing: border-box; }
-.tk-grid { display: grid; grid-template-columns: repeat(2, 1fr); column-gap: 4rem; }
+/* toolkit grid — mobile first, 2 columns on iPad landscape and wider */
+.tk-grid { display: flex; flex-direction: column; }
+.tk-col { display: flex; flex-direction: column; }
 .tk-cell h3 { margin-top: 0; }
 .tk-cell .pg { margin-bottom: 0.4rem; }
 .tk-cell .pg-row { margin-bottom: 0.1rem; }
 .tk-cell .pg-label { font-size: 0.8rem; }
 .tk-cell .pg-links { font-size: 0.65rem; }
 .tk-cell .bar-track { height: 3px; }
-@media (max-width: 720px) {
-  .tk-outer { width: 100%; margin-left: 0; padding: 0; }
-  .tk-grid { grid-template-columns: 1fr; }
+@media (min-width: 1024px) {
+  .tk-outer { width: 100vw; margin-left: calc(50% - 50vw); padding: 0 5vw; box-sizing: border-box; }
+  .tk-grid { flex-direction: row; gap: 4rem; align-items: stretch; }
+  .tk-col { flex: 1; justify-content: space-between; }
 }
 </style>
 
@@ -85,6 +86,8 @@ h1 { font-size: 1.75rem; }
 
 <div class="tk-outer"><div class="tk-grid">
 
+<div class="tk-col">
+
 <div class="tk-cell">
 <h3>engineering math</h3>
 <div class="pg"><div class="pg-row"><span class="pg-label">calculus</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#50B8A0;"></div></div></div>
@@ -119,6 +122,10 @@ h1 { font-size: 1.75rem; }
 <div class="pg"><div class="pg-row"><span class="pg-label">asymptotic convex geometry</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D4A030;"></div></div></div>
 </div>
 
+</div>
+
+<div class="tk-col">
+
 <div class="tk-cell">
 <h3>algebra</h3>
 <div class="pg"><div class="pg-row"><span class="pg-label">group theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D44840;"></div></div></div>
@@ -146,6 +153,8 @@ h1 { font-size: 1.75rem; }
 <div class="pg"><div class="pg-row"><span class="pg-label">quantum theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D04880;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">special / general relativity</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D04880;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">quantum field theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D04880;"></div></div></div>
+</div>
+
 </div>
 
 </div></div>
