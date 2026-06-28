@@ -86,6 +86,8 @@ h1 { font-size: 1.75rem; }
 
 <div class="tk-outer"><div class="tk-grid">
 
+<div class="tk-col">
+
 <div class="tk-cell">
 <h3>engineering math</h3>
 <div class="pg"><div class="pg-row"><span class="pg-label">calculus</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#50B8A0;"></div></div></div>
@@ -94,13 +96,6 @@ h1 { font-size: 1.75rem; }
 <div class="pg"><div class="pg-row"><span class="pg-label">fourier series</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#50B8A0;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">euclidean geometry</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#50B8A0;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">counting</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#50B8A0;"></div></div></div>
-</div>
-
-<div class="tk-cell">
-<h3>ml theory / optimization</h3>
-<div class="pg"><div class="pg-row"><span class="pg-label">statistical learning theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#3BA8C7;"></div></div></div>
-<div class="pg"><div class="pg-row"><span class="pg-label">optimization theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#3BA8C7;"></div></div></div>
-<div class="pg"><div class="pg-row"><span class="pg-label">optimization on manifolds</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#3BA8C7;"></div></div></div>
 </div>
 
 <div class="tk-cell">
@@ -113,24 +108,10 @@ h1 { font-size: 1.75rem; }
 </div>
 
 <div class="tk-cell">
-<h3>probability</h3>
-<div class="pg"><div class="pg-row"><span class="pg-label">probability theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D4A030;"></div></div></div>
-<div class="pg"><div class="pg-row"><span class="pg-label">high dimensional probability</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D4A030;"></div></div></div>
-<div class="pg"><div class="pg-row"><span class="pg-label">random matrix theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D4A030;"></div></div></div>
-<div class="pg"><div class="pg-row"><span class="pg-label">asymptotic convex geometry</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D4A030;"></div></div></div>
-</div>
-
-<div class="tk-cell">
 <h3>algebra</h3>
 <div class="pg"><div class="pg-row"><span class="pg-label">group theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D44840;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">linear algebra</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D44840;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">lie groups and lie algebra</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D44840;"></div></div></div>
-</div>
-
-<div class="tk-cell">
-<h3>differential equations</h3>
-<div class="pg"><div class="pg-row"><span class="pg-label">ordinary differential equations</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#5570D4;"></div></div></div>
-<div class="pg"><div class="pg-row"><span class="pg-label">partial differential equations</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#5570D4;"></div></div></div>
 </div>
 
 <div class="tk-cell">
@@ -140,6 +121,31 @@ h1 { font-size: 1.75rem; }
 <div class="pg"><div class="pg-row"><span class="pg-label">differential geometry</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#8050D0;"></div></div></div>
 </div>
 
+</div>
+
+<div class="tk-col">
+
+<div class="tk-cell">
+<h3>ml theory / optimization</h3>
+<div class="pg"><div class="pg-row"><span class="pg-label">statistical learning theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#3BA8C7;"></div></div></div>
+<div class="pg"><div class="pg-row"><span class="pg-label">optimization theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#3BA8C7;"></div></div></div>
+<div class="pg"><div class="pg-row"><span class="pg-label">optimization on manifolds</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#3BA8C7;"></div></div></div>
+</div>
+
+<div class="tk-cell">
+<h3>probability</h3>
+<div class="pg"><div class="pg-row"><span class="pg-label">probability theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D4A030;"></div></div></div>
+<div class="pg"><div class="pg-row"><span class="pg-label">high dimensional probability</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D4A030;"></div></div></div>
+<div class="pg"><div class="pg-row"><span class="pg-label">random matrix theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D4A030;"></div></div></div>
+<div class="pg"><div class="pg-row"><span class="pg-label">asymptotic convex geometry</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D4A030;"></div></div></div>
+</div>
+
+<div class="tk-cell">
+<h3>differential equations</h3>
+<div class="pg"><div class="pg-row"><span class="pg-label">ordinary differential equations</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#5570D4;"></div></div></div>
+<div class="pg"><div class="pg-row"><span class="pg-label">partial differential equations</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#5570D4;"></div></div></div>
+</div>
+
 <div class="tk-cell">
 <h3>physics</h3>
 <div class="pg"><div class="pg-row"><span class="pg-label">classical mechanics</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D04880;"></div></div></div>
@@ -147,6 +153,8 @@ h1 { font-size: 1.75rem; }
 <div class="pg"><div class="pg-row"><span class="pg-label">quantum theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D04880;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">special / general relativity</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D04880;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">quantum field theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D04880;"></div></div></div>
+</div>
+
 </div>
 
 </div></div>
