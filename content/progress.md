@@ -12,7 +12,8 @@ h1 { font-size: 1.75rem; }
 .bar-fill { height: 100%; border-radius: 3px; }
 .pg-section { margin-bottom: 1rem; }
 /* toolkit grid — mobile first, 2 columns on iPad landscape and wider */
-.tk-grid { display: grid; grid-template-columns: 1fr; }
+.tk-grid { display: flex; flex-direction: column; }
+.tk-col { display: flex; flex-direction: column; gap: 1.5rem; }
 .tk-cell h3 { margin-top: 0; }
 .tk-cell .pg { margin-bottom: 0.4rem; }
 .tk-cell .pg-row { margin-bottom: 0.1rem; }
@@ -21,7 +22,8 @@ h1 { font-size: 1.75rem; }
 .tk-cell .bar-track { height: 3px; }
 @media (min-width: 1024px) {
   .tk-outer { width: 100vw; margin-left: calc(50% - 50vw); padding: 0 5vw; box-sizing: border-box; }
-  .tk-grid { grid-template-columns: repeat(2, 1fr); column-gap: 4rem; align-items: start; }
+  .tk-grid { flex-direction: row; align-items: stretch; gap: 4rem; }
+  .tk-col { flex: 1; justify-content: space-between; }
 }
 </style>
 
