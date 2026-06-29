@@ -45,7 +45,7 @@ h1 { font-size: 1.75rem; }
 
 <div class="pg">
 <div class="pg-row"><span class="pg-label">edge of stability</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div>
-<div class="bar-track"><div class="bar-fill" style="width:0%;background:#D4A830;"></div></div>
+<div class="bar-track"><div class="bar-fill" style="width:20%;background:#D4A830;"></div></div>
 </div>
 
 <div class="pg">
@@ -90,9 +90,9 @@ h1 { font-size: 1.75rem; }
 
 <div class="tk-cell">
 <h3>engineering math</h3>
-<div class="pg"><div class="pg-row"><span class="pg-label">calculus</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#50B8A0;"></div></div></div>
+<div class="pg"><div class="pg-row"><span class="pg-label">calculus</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:20%;background:#50B8A0;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">differential equations</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#50B8A0;"></div></div></div>
-<div class="pg"><div class="pg-row"><span class="pg-label">intro to complex numbers</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#50B8A0;"></div></div></div>
+<div class="pg"><div class="pg-row"><span class="pg-label">intro to complex numbers</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:60%;background:#50B8A0;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">fourier series</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#50B8A0;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">euclidean geometry</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#50B8A0;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">counting</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#50B8A0;"></div></div></div>
@@ -100,7 +100,7 @@ h1 { font-size: 1.75rem; }
 
 <div class="tk-cell">
 <h3>analysis</h3>
-<div class="pg"><div class="pg-row"><span class="pg-label">real analysis</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#48B86A;"></div></div></div>
+<div class="pg"><div class="pg-row"><span class="pg-label">real analysis</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:20%;background:#48B86A;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">measure theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#48B86A;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">functional analysis</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#48B86A;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">fourier analysis</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#48B86A;"></div></div></div>
@@ -110,7 +110,7 @@ h1 { font-size: 1.75rem; }
 <div class="tk-cell">
 <h3>algebra</h3>
 <div class="pg"><div class="pg-row"><span class="pg-label">group theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D44840;"></div></div></div>
-<div class="pg"><div class="pg-row"><span class="pg-label">linear algebra</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D44840;"></div></div></div>
+<div class="pg"><div class="pg-row"><span class="pg-label">linear algebra</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:20%;background:#D44840;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">lie groups and lie algebra</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D44840;"></div></div></div>
 </div>
 
@@ -134,7 +134,7 @@ h1 { font-size: 1.75rem; }
 
 <div class="tk-cell">
 <h3>probability</h3>
-<div class="pg"><div class="pg-row"><span class="pg-label">probability theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D4A030;"></div></div></div>
+<div class="pg"><div class="pg-row"><span class="pg-label">probability theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:20%;background:#D4A030;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">high dimensional probability</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D4A030;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">random matrix theory</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D4A030;"></div></div></div>
 <div class="pg"><div class="pg-row"><span class="pg-label">asymptotic convex geometry</span><span class="pg-links"><a href="#">[notes]</a><a href="#">[resources]</a></span></div><div class="bar-track"><div class="bar-fill" style="width:0%;background:#D4A030;"></div></div></div>
