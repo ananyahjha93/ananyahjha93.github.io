@@ -41,7 +41,7 @@ favicon = "favicon.ico"
 image = ""
 
 default_theme = "dark"
-list_pages = true
+list_pages = false
 twitter_card = false
 
 header_nav = [
